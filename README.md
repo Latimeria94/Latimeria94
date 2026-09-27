@@ -6,7 +6,7 @@ My research focuses on characterizing microbial communities in drinking water bi
 
 During a visiting period at EAWAG (Swiss Federal Institute of Aquatic Science and Technology), I extended this work to explore prokaryote-eukaryote ecological relationships in drinking water biofilms, integrating 16S and long-amplicon 18S sequencing.
 
-🔬 **Skills:** R (statistical & ecological analysis), QIIME2, phyloseq, DESeq2, network analysis, HPC/cluster computing, working knowledge of Python
+🔬 **Skills:** R (statistical & ecological analysis), QIIME2, phyloseq, DESeq2, network analysis, HPC/cluster computing, working knowledge of Python and Ruby
 
 📄 **Find my work:** https://orcid.org/0009-0007-9088-3802 | CV in this profile: [laura_caligaris_short_CV.pdf](https://github.com/Latimeria94/CV/blob/main/laura_caligaris_short_CV.pdf)
 
