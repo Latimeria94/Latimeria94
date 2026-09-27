@@ -8,6 +8,6 @@ During a visiting period at EAWAG (Swiss Federal Institute of Aquatic Science an
 
 🔬 **Skills:** R (statistical & ecological analysis), QIIME2, phyloseq, DESeq2, network analysis, HPC/cluster computing, working knowledge of Python
 
-📄 **Find my work:** https://orcid.org/0009-0007-9088-3802 | CV in this profile
+📄 **Find my work:** https://orcid.org/0009-0007-9088-3802 | CV in this profile: laura_caligaris_short_CV.pdf
 
 📫 Reach me at: laura.caligaris2@unibo.it | caligaris.laura15@gmail.com
